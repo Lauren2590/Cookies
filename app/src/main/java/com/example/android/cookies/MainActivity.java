@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Called when the cookie should be eaten.
+     * Called when the button with the text "EAT COOKIE" in activity_main.xml is pressed
      */
     public void eatCookie(View view) {
         // Find a reference to the ImageView in the layout. Change the image.
